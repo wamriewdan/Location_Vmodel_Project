@@ -15,8 +15,8 @@ Navigate to the files location and either;
  - optional: uncomment to save the images at a directory of choice
  
 Notes:
--Run the file "Figures7_8_9_10.py" to produce Figures 7, 8, 9 and 10
--Run the file "Figure11_Coherent_Noise_Histogram.py" to produce figure 11.
--Due to the large volumes of data involved, only 25 samples of velocity model have been included in the test dataset provided here. Full dataset can be obtained by contacting the author.
--For more information contact wamriewdan@gmail.com 
+ - Run the file "Figures7_8_9_10.py" to produce Figures 7, 8, 9 and 10.
+ - Run the file "Figure11_Coherent_Noise_Histogram.py" to produce figure 11.
+ - Due to the large volumes of data involved, only 25 samples of velocity model have been included in the test dataset provided here. Full dataset can be obtained by contacting the author.
+ - For more information contact wamriewdan@gmail.com 
  
